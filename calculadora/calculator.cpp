@@ -1,3 +1,5 @@
+//this is just an example
+
 #include <iostream>
 #include "funciones.h"
 // modificar float de void para que pueda reutilizar resultados de switch
